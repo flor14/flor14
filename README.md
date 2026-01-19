@@ -1,4 +1,6 @@
-## Hi there 👋
+#### I design software tools, build visualizations, and help solve research problems.
+
+I design software tools, build visualizations, and help solve research problems.
 
 <!--
 **flor14/flor14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
