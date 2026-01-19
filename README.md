@@ -1,6 +1,6 @@
 #### I design software tools, build visualizations, and help solve research problems.
 
-I design software tools, build visualizations, and help solve research problems.
+Most of my coding happens outside this account, so GitHub activity here doesn’t reflect my full work.
 
 <!--
 **flor14/flor14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
